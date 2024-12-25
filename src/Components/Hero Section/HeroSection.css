@@ -1,0 +1,14 @@
+.custom-box {
+    background-color: #37a4d778 ;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+  }
+  
+ 
+  @media (max-width: 600px) {
+    .custom-box {
+      padding: 1rem;
+    }
+  }
+  
